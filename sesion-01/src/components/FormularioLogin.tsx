@@ -65,7 +65,7 @@ const FormularioLogin = () => {
       )}
       <form onSubmit={handleSubmit} className="space-y-3">
         <div>
-          <label className="block text-sm font-medium mb-1">E-Mail</label>
+          <label className="block text-sm font-medium mb-1">e-Mail</label>
           <input
             className="w-full px-3 py-2 border rounded focus:outline-none focus:ring-4"
             type="email"
